@@ -1,0 +1,8 @@
+D:\SourceTree\CarGame\CarGame\CarGame\bin\x86\Debug\CarGame.exe
+D:\SourceTree\CarGame\CarGame\CarGame\bin\x86\Debug\CarGame.pdb
+D:\SourceTree\CarGame\CarGame\CarGame\obj\x86\Debug\CarGame.csprojResolveAssemblyReference.cache
+D:\SourceTree\CarGame\CarGame\CarGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\SourceTree\CarGame\CarGame\CarGame\obj\x86\Debug\CarGame.exe
+D:\SourceTree\CarGame\CarGame\CarGame\obj\x86\Debug\CarGame.pdb
+D:\SourceTree\CarGame\CarGame\CarGame\bin\x86\Debug\Content\cars.xnb
+D:\SourceTree\CarGame\CarGame\CarGame\bin\x86\Debug\Content\font.xnb
